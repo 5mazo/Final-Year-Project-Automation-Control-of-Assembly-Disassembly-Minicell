@@ -44,7 +44,8 @@ The system integrates the following components:
 - **Actuators:** Pneumatic cylinders, vacuum ejectors, and rotary actuators for handling parts.  
 - **HMI (CX-Designer):** Provides operator interface for monitoring, alarms, and manual/auto control.  
 
-*(Insert architecture diagram from `/media/diagrams/` here)*  
+<img width="821" height="472" alt="image" src="https://github.com/user-attachments/assets/7e04907b-5e16-4cc0-a796-e206afa8567a" />
+
 
 ---
 
