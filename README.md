@@ -64,3 +64,62 @@ The system integrates the following components:
 ---
 
 ## 📂 Repository Contents  
+MAP-205-Automation/  
+│── README.md                → Main project overview  
+│── LICENSE                  → MIT License  
+│── .gitignore               → Ignore unnecessary files  
+│  
+├── docs/                    → Documentation branch  
+│   │── README.md            → Explains docs folder  
+│   │── Project_Report.pdf  
+│   │── FYP2_Presentation.pdf  
+│   │── Lab_Sheet.pdf  
+│  
+├── code/                    → PLC + HMI code branch  
+│   │── README.md            → Explains code folder  
+│   │── PLC_Ladder_Logic.cxp  
+│   │── HMI_Design.cxp  
+│   │── Simulation_Files/  
+│       ├── Grafcet.pdf  
+│       └── Flowchart.png  
+│  
+├── media/                   → Visuals branch  
+│   │── README.md            → Explains media folder  
+│   │── demo_video.mp4  
+│   │── screenshots/  
+│   │   ├── hmi_dashboard.png  
+│   │   ├── ladder_logic.png  
+│   │   └── grafcet.png  
+│   │── diagrams/  
+│       ├── system_architecture.png  
+│       ├── assembly_flow.png  
+│       └── disassembly_flow.png  
+
+
+---
+
+## 📸 Demo & Screenshots  
+*(Insert screenshots and demo video links here, e.g., from `/media/screenshots/` and `/media/demo_video.mp4`)*  
+
+- **HMI Dashboard (CX-Designer):** Real-time operator interface.  
+- **Ladder Logic (CX-Programmer):** Automated assembly/disassembly workflow.  
+- **Grafcet Diagrams:** Step-by-step sequence of operations.  
+
+---
+
+## 📌 Future Work  
+- 🌐 Add **IoT connectivity** for cloud-based remote monitoring.  
+- 🖥️ Integrate **computer vision (OpenCV)** for automatic quality inspection.  
+
+---
+
+## 📜 License  
+This project is licensed under the **MIT License** – you are free to use, modify, and distribute it with proper attribution.  
+
+---
+
+## 👤 Author  
+**Mazen Mohamed Mahrous**  
+- 🎓 Universiti Teknologi Malaysia (UTM) – Electrical-Mechatronics  
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/mazen-mahrous-115709277/)
+
