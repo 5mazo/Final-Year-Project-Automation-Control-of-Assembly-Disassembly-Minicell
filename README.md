@@ -5,9 +5,9 @@ The code integrates **PLC ladder logic** (CX-Programmer) with a **custom HMI int
 ---
 
 ## 📂 Contents  
-📂 code/
+📂 PLC-Code+HMI-Design/
 │── backup code trial 2.cxp → Omron CX-Programmer project file
-│── NewProject.cxp → Omron CX-Designer project file
+│── NewProject.IPP → Omron CX-Designer project file
 │── Simulation_Files/ → Grafcet diagrams & flowcharts
 
 ---
@@ -21,11 +21,11 @@ To run and edit these files, you will need:
 ---
 
 ## 🚀 How to Use  
-1. Open **`PLC_Ladder_Logic.cxp`** in **CX-Programmer**.  
+1. Open **`backup code trial 2.cxp`** in **CX-Programmer**.  
    - Download the program into the Omron CP1H PLC.  
    - Alternatively, run in simulator mode.  
 
-2. Open **`HMI_Design.cxp`** in **CX-Designer**.  
+2. Open **`NewProject.IPP`** in **CX-Designer**.  
    - Deploy to the NB-series HMI.  
    - The HMI provides real-time control, manual/auto mode, and alarm handling.  
 
