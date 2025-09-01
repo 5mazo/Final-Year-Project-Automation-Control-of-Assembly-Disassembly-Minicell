@@ -1,4 +1,4 @@
-# MAP-205 Automation – Code  
+# MAP-205 Automation – PLC-Code+HMI-Design
 This branch contains all **source code and project files** developed for the automation and control of the **SMC MAP-205 training kit**.  
 The code integrates **PLC ladder logic** (CX-Programmer) with a **custom HMI interface** (CX-Designer).  
 
