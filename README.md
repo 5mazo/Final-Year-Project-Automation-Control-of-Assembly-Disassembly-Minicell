@@ -100,8 +100,7 @@ MAP-205-Automation/
 ---
 
 ## 📸 Demo & Screenshots  
-*(Insert screenshots and demo video links here, e.g., from `/media/screenshots/` and `/media/demo_video.mp4`)*  
-
+https://youtube.com/shorts/iErxwkXbaR0?feature=share
 - **HMI Dashboard (CX-Designer):** Real-time operator interface.  
 - **Ladder Logic (CX-Programmer):** Automated assembly/disassembly workflow.  
 - **Grafcet Diagrams:** Step-by-step sequence of operations.  
