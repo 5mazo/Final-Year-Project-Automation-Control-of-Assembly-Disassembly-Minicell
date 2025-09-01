@@ -6,7 +6,7 @@ The documents explain the project background, methodology, and provide a **lab s
 ---
 
 ## 📂 Contents  
-📂 docs/
+📂 Docs/
 │── Project_Report.pdf → Full project report (FYP2)
 │── FYP2_Presentation.pdf → Presentation slides
 │── Lab_Sheet.pdf → Student training lab sheet
